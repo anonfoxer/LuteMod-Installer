@@ -1,0 +1,10 @@
+F:\Repos\LuteModInstaller\LuteModInstaller\bin\Release\LuteModInstaller.exe.config
+F:\Repos\LuteModInstaller\LuteModInstaller\bin\Release\LuteModInstaller.exe
+F:\Repos\LuteModInstaller\LuteModInstaller\bin\Release\LuteModInstaller.pdb
+F:\Repos\LuteModInstaller\LuteModInstaller\obj\Release\LuteModInstaller.csprojAssemblyReference.cache
+F:\Repos\LuteModInstaller\LuteModInstaller\obj\Release\LuteModInstaller.luteModInstaller.resources
+F:\Repos\LuteModInstaller\LuteModInstaller\obj\Release\LuteModInstaller.Properties.Resources.resources
+F:\Repos\LuteModInstaller\LuteModInstaller\obj\Release\LuteModInstaller.csproj.GenerateResource.cache
+F:\Repos\LuteModInstaller\LuteModInstaller\obj\Release\LuteModInstaller.csproj.CoreCompileInputs.cache
+F:\Repos\LuteModInstaller\LuteModInstaller\obj\Release\LuteModInstaller.exe
+F:\Repos\LuteModInstaller\LuteModInstaller\obj\Release\LuteModInstaller.pdb
